@@ -1,9 +1,11 @@
 <template>
-    <MainLayout>
-        <h1>Index view</h1>
-    </MainLayout>
+    <h1>Index view</h1>
 </template>
 
-<script setup>
+<script>
 import MainLayout from "../../Layouts/MainLayout.vue";
+
+export default {
+    layout: MainLayout,
+};
 </script>
