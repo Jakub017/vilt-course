@@ -1,6 +1,6 @@
 <template>
     <MainLayout>
-        <h1>Index view</h1>
+        <h1>Show view</h1>
     </MainLayout>
 </template>
 
